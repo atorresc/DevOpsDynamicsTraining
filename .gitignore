@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/scdemo/solutionPackage/spkl
+/scdemo/solutionPackage/scdemo_1_0_0_0.zip
